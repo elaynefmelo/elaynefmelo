@@ -2,8 +2,7 @@
 
 - 🔭 Ux/Ui designer & Dev front-end 
 - 🌱 Estudando React-Native
-- 😄 Pronouns: ela/dela
-
+- 😄 Portifólio Ux/UI: https://www.behance.net/elaynefmelo 
 <div>
   <a href="https://github.com/elaynefmelo"></a>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=elaynefmelo&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
